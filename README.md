@@ -21,7 +21,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafamo7amed&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamo7amed&show_icons=false&theme=radical&&count_private=true&layout=compact&hide_border=true)](https://github.com/mostafamo7amed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamo7amed&show_icons=true&theme=radical&&count_private=true&layout=compact&hide_border=true)](https://github.com/mostafamo7amed/github-readme-stats)
 
 [website]: https://www.facebook.com/profile.php?id=100029091069673
 [twitter]: https://twitter.com/Mostafa_Mo7medD
