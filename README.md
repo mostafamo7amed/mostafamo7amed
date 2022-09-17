@@ -19,7 +19,7 @@
 
 ### 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafamo7amed&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafamo7amed&show_icons=true&&count_private=true&include_all_commits=true&theme=radical"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamo7amed&show_icons=true&theme=radical&&count_private=false&layout=compact&hide_border=true)](https://github.com/mostafamo7amed/github-readme-stats)
 
