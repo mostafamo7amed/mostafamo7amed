@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as android native developer
-- 🌱 I’m currently learning Java 
+- 🔭 I’m currently working as android developer (Java & Flutter)
+- 🌱 I’m currently learning Java and Dart
 - 👯 I’m looking to collaborate with other android programmer
 - 💬 Ask me if you need help
 - 📫 How to reach me: moustafamohmed203@gmail.com
